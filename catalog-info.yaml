@@ -6,10 +6,10 @@ metadata:
   labels:
     app: sample-blog
   links:
-    - url: https://console-openshift-console.apps.rosa.<cluster-name>.<domain>.openshiftapps.com/k8s/cluster/projects/sample-blog
+    - url: https://console-openshift-console.apps.u8g5p8t0h0y2t7c.dl7b.p2.openshiftapps.com/k8s/cluster/projects/sample-blog
       title: OpenShift Console
       icon: dashboard
-    - url: https://nginx-sample-blog.apps.rosa.<cluster-name>.<domain>.openshiftapps.com
+    - url: https://nginx-sample-blog.apps.u8g5p8t0h0y2t7c.dl7b.p2.openshiftapps.com
       title: Application Web Site
       icon: dashboard
     - url: https://github.com/GCP-PoC-PJ/sample-blog.git
